@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Verificar se o número é par ou ímpar</title>
 </head>
 <body>
     <form method = "POST" action="">
